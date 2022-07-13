@@ -6,6 +6,7 @@ module.exports = {
   onboarding: true,
   platform: 'github',
   includeForks: true,
+  requireConfig: false,
   repositories: [
     // 'SmirnovWorks/renovatebot-test',
     'test-selfhosted-renovate/renovate-ruby-test',
